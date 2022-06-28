@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    padding: 15px;
+    align-items: center;
+}
+
+.cloud-icon {
+    font-size: 25px;
+    padding-right: 15px;
+}

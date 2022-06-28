@@ -1,0 +1,26 @@
+form {
+    position: relative;
+}
+
+.location-input {
+    padding: 6px;
+    width: 300px;
+    line-height: 1.5rem;
+    border-radius: 20px;
+    border: none;
+    padding-left: 15px;
+    padding-right: 12px;
+}
+
+.location-input:focus {
+    outline: none;
+    border: solid 1px aqua;
+}
+
+.location-icon {
+    position: absolute;
+    font-size: 20px;
+    right: 6px;
+    padding-top: 9px;
+    cursor: pointer;
+}

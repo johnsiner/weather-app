@@ -1,0 +1,35 @@
+.details {
+    background-color: rgb(170, 207, 240);
+    display: flex;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    flex-wrap: wrap;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.details-element {
+    display: flex;
+    align-items: center;
+    margin: 35px 35px 20px 35px;
+}
+
+.icon-container {
+    padding-right: 7px;
+}
+
+.details-icon {
+    font-size: 32px;
+}
+
+.value {
+    text-align: left;
+    margin: 0;
+    margin-bottom: 3px;
+}
+
+.description {
+    margin: 0;
+}
